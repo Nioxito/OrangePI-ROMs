@@ -1,8 +1,11 @@
-# ROM & Performance Overview for OPi5 NORMAL and possibly the Pro version (I don’t have it to test, but it should work). The Plus version probably won’t work, but you could try
+# ROMs for OPi5 NORMAL
+and possibly the Pro version (I don’t have it to test, but it should work). The Plus version probably won’t work, but you could try
 
-Both images come with ROOT (Magisk). RisingOS has root via ADB if you want.
-## I’m going to try to maximize performance and make an overclocked version. If I see enough support, I’ll create a Discord server so people can vote on which GSI they want<3
+If you want a ROM gsi based, contact me on **Discord: Niox07**
 
+I’m going to try to maximize performance and make an overclocked version. If I see enough support, I’ll create a Discord server so people can vote on which GSI they want<3
+
+Both images come with ROOT (Magisk). 
 ## RisingOS (Android 15 QPR1)
 More customization, fewer pre-installed apps, and yes—the PS2 emulator is fixed.
 Download RisingOS 15:
@@ -33,9 +36,7 @@ You can also use **RKDevTool**, which in my opinion, is faster.
 
 ---
 
-If you want a ROM gsi based, contact me on **Discord: Niox07**
-
-## Android 15 QPR2 & Android 16
+# Android 15 QPR2 & Android 16
 Currently don’t boot due to HAL/graphics conflicts with **Kernel 5.10**.  
 *Android 16 Beta 3.1 might fix this, but it’s unlikely.*
 
