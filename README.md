@@ -11,6 +11,7 @@ More customization, fewer pre-installed apps, and yes—the PS2 emulator is fixe
 Download RisingOS 15:
 
 [Download RisingOS 15](https://www.mediafire.com/file/ngt66r9uiruk2gd/RisingOSV2.img/file) 
+
 I fixed the bug that was crashing the system when playing videos
 
 ⚠️ **Note:**  
