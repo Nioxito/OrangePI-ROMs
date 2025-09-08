@@ -10,7 +10,8 @@ Both images come with ROOT (Magisk).
 More customization, fewer pre-installed apps, and yes—the PS2 emulator is fixed.
 Download RisingOS 15:
 
-[Download RisingOS 15](https://www.mediafire.com/file/9d7abu6ky6aq26p/RisingOS15.7z/file) 
+[Download RisingOS 15](https://www.mediafire.com/file/ngt66r9uiruk2gd/RisingOSV2.img/file) 
+I fixed the bug that was crashing the system when playing videos
 
 ⚠️ **Note:**  
 If you get an error during the Setup Wizard when setting up Wi-Fi (the screen stays black when you select the Offline option), just skip Wi-Fi or try simply restarting the Orange Pi. In later versions, I will remove the Setup Wizard
